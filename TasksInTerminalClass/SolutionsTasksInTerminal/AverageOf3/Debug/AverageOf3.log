@@ -1,0 +1,6 @@
+﻿  AverageOf3.c
+C:\Users\user\Desktop\informatics-and-Programming\TasksInTerminalClass\SolutionsTasksInTerminal\AverageOf3\AverageOf3.c(17,36): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\informatics-and-Programming\TasksInTerminalClass\SolutionsTasksInTerminal\AverageOf3\AverageOf3.c(37,77): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\informatics-and-Programming\TasksInTerminalClass\SolutionsTasksInTerminal\AverageOf3\AverageOf3.c(57,62): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\informatics-and-Programming\TasksInTerminalClass\SolutionsTasksInTerminal\AverageOf3\AverageOf3.c(77,67): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  AverageOf3.vcxproj -> C:\Users\user\Desktop\informatics-and-Programming\TasksInTerminalClass\SolutionsTasksInTerminal\AreaOfFigures\Debug\AverageOf3.exe
