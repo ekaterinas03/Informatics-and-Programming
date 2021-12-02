@@ -1,4 +1,0 @@
-﻿  main.c
-C:\Users\user\Desktop\informatics-and-Programming\Arrays\Arrays\main.c(35,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\user\Desktop\informatics-and-Programming\Arrays\Arrays\main.c(37,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\user\Desktop\informatics-and-Programming\Arrays\Arrays\main.c(69,1): error C2059: синтаксическая ошибка: return

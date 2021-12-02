@@ -3,7 +3,7 @@
 #include <time.h>
 #include <locale.h>
 
-void generated(char *a, int n) {
+void generated(char *a, int n) {//генерция случайного числа длинной n
 	srand(time(NULL));
 	for (int i = 0;i < n;i++) {
 		a[i] = 1 + rand() % 8;
@@ -21,7 +21,7 @@ void generated(char *a, int n) {
 int main() {
 	char* locale = setlocale(LC_ALL, ""); //установим локализацию символов в консоли
 	int n;
-	int cows = 0, bull = 0;
+	int cows = 0, bull = 0;//счет
 	scanf("%d", &n);
 
 
@@ -29,7 +29,7 @@ int main() {
 	CPU = (int*)malloc(n * sizeof(int));
 	generated(CPU, n);
 
-	while (bull != n) {
+	while (bull != n) {//Игра идет пока число быков не станет равно длинне сгенерированного числа
 		int pers;
 		cows = 0; bull = 0;
 		scanf("%d", &pers);
